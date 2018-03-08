@@ -1,4 +1,4 @@
-# Dhealth
+# DHealth
 DHealth is the initiative of #AIR-CLINIC aimed at rewarding contributions to healthcare and medicine. Under this repository, we build an intact webapp to cater for this. Cheers!
 
 [Dhealth.live](https://dhealth.live) wants to reward medical contributors for their hard work. 
@@ -32,14 +32,14 @@ You may need to authorise your browser in using a self-signed SSL certificate
 
 
 ### Set STEEMCONNECT DHEALTH App
-Add the enviroment variable UTOPIAN_APP using the app name of your Steem Connect oauth application. You can create a SC app here https://v2.steemconnect.com/apps/create. The same app will have to be used and setup in the backend https://github.com/AIR-CLINIC/api.dhealth.live.
+Add the enviroment variable DHEALTH_APP using the app name of your Steem Connect oauth application. You can create a STEEMCONNECT app here https://v2.steemconnect.com/apps/create. The same app will have to be used and setup in the backend https://github.com/AIR-CLINIC/api.dhealth.live.
 
 ### Run The Frontend
 npm run dev-server
 
 
 #### API Server
-Our sister project [utopian-io/api.utopian.io](https://github.com/utopian-io/api.utopian.io) provides the back-end APIs for Utopian. If you want to run Utopian locally, you **do need**  to run that project, though you may want to check it out!
+Our sister project [dhealth.live/api.dhealth.live](https://github.com/AIR-CLINIC/api.dhealth.live) provides the back-end APIs for DHELATH. If you want to run DHELATH locally, you **do need**  to run that project, though you may want to check it out!
 
 ### Supported by BrowserStack
 
