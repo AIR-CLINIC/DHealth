@@ -1,3 +1,6 @@
+# Dhealth
+DHealth is the initiative of #AIR-CLINIC aimed at rewarding contributions to healthcare and medicine. Under this repository, we build an intact webapp to cater for this. Cheers!
+
 [Dhealth.live](https://dhealth.live) wants to reward medical contributors for their hard work. 
 Forked from https://github.com/utopian-io/utopian.io which was a fork from https://github.com/busyorg/busy, Dlive uses the [STEEM Blockchain](https://steem.io) to reward contributors in cryptocurrency.
 
