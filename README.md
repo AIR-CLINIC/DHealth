@@ -3,7 +3,7 @@ Forked from https://github.com/utopian-io/utopian.io which was a fork from https
 
 See the website in action [here:](https://dhealth.live)
 
-<center><img src="https://steemitimages.com/DQmYgMbYHNtiNmA6TbSL34tNwaMvxsQu2o5zrDvnbDks8bY/image.png"/></center>
+<center><img src="https://cdn.discordapp.com/attachments/406358037733834753/421360504208883732/unknown.png"/></center>
   
 ## Contributing to this Project
 Get in touch on Discord: https://discord.gg/rqded5m
