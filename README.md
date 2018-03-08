@@ -31,7 +31,7 @@ Replace path with the path to the generated .pem files.
 You may need to authorise your browser in using a self-signed SSL certificate
 
 
-### Set SC Utopian App
+### Set STEEMCONNECT DHEALTH App
 Add the enviroment variable UTOPIAN_APP using the app name of your Steem Connect oauth application. You can create a SC app here https://v2.steemconnect.com/apps/create. The same app will have to be used and setup in the backend https://github.com/AIR-CLINIC/api.dhealth.live.
 
 ### Run The Frontend
