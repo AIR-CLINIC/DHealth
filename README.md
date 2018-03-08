@@ -1,17 +1,17 @@
-[Utopian.io](https://utopian.io) wants to reward Open Source contributors for their hard work. 
-Forked from https://github.com/busyorg/busy, Utopian uses the [STEEM Blockchain](https://steem.io) to reward contributors in cryptocurrency.
+[Dhealth.live](https://dhealth.live) wants to reward medical contributors for their hard work. 
+Forked from https://github.com/busyorg/busy, Dlive uses the [STEEM Blockchain](https://steem.io) to reward contributors in cryptocurrency.
 
-See the website in action [here:](https://utopian.io)
+See the website in action [here:](https://dhealth.live)
 
 <center><img src="https://steemitimages.com/DQmYgMbYHNtiNmA6TbSL34tNwaMvxsQu2o5zrDvnbDks8bY/image.png"/></center>
   
 ## Contributing to this Project
-Get in touch on Discord: https://discord.gg/Pc8HG9x
+Get in touch on Discord: https://discord.gg/rqded5m
 
 ### Clone and Install
-git clone https://github.com/utopian-io/utopian.io utopian.io
+git clone https://github.com/AIR-CLINIC/dhealth.live dhealth.live
 
-cd utopian.io
+cd dhealth.live
 
 npm install
 
@@ -29,7 +29,7 @@ You may need to authorise your browser in using a self-signed SSL certificate
 
 
 ### Set SC Utopian App
-Add the enviroment variable UTOPIAN_APP using the app name of your Steem Connect oauth application. You can create a SC app here https://v2.steemconnect.com/apps/create. The same app will have to be used and setup in the backend https://github.com/utopian-io/api.utopian.io.
+Add the enviroment variable UTOPIAN_APP using the app name of your Steem Connect oauth application. You can create a SC app here https://v2.steemconnect.com/apps/create. The same app will have to be used and setup in the backend https://github.com/AIR-CLINIC/api.dhealth.live.
 
 ### Run The Frontend
 npm run dev-server
